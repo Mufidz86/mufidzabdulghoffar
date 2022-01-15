@@ -1,2 +1,0 @@
-# mufidzabdulghoffar
-belajarkalkulator.html
